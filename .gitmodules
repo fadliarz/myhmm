@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/fadliarz/myhmm-server.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/fadliarz/myhmm-infrastructure.git
+[submodule "serverless"]
+	path = serverless
+	url = https://github.com/fadliarz/myhmm-serverless.git
